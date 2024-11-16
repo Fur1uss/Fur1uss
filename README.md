@@ -14,6 +14,7 @@ Soy un ingeniero en informática apasionado por el desarrollo de software, con e
 
 ## 💼 Experiencia:
 He trabajado en el desarrollo de aplicaciones web optimizadas, liderando equipos y buscando soluciones innovadoras en diversas tecnologías.
+- [Participante Hackaton PowerBI Microsoft 2024] (https://www.meetup.com/es/power-bi-chile/events/304197554/?recId=0f4856ad-7ba5-4238-ad75-a07d98ef3a54&recSource=keyword_search&searchId=53d313a8-2d08-4fd7-a1bb-d449b54f1bc5&eventOrigin=find_page$all): Participe en este evento con mas de 60 personas compitiendo. 
 
 
 ### 🌟 Proyectos destacados:
