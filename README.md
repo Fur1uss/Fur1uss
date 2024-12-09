@@ -20,6 +20,7 @@ He trabajado en el desarrollo de aplicaciones web optimizadas, liderando equipos
 ### 🌟 Proyectos destacados:
 - [Pulgaticket! 🪳](https://github.com/Fur1uss/pulgaticket): Plataforma web de reventa de entradas para eventos, creando un ambiente seguro y confiable entre cliente y vendedor.
 - [ChasquillApp! 👷](http://github.com/Fur1uss/ChasquillApp): Plataforma pionera en Chile de contratacion de servicios obreros y relacionados con el area de la construccion.
+- [Wirin Spa! 🏗️](https://wirin-spa.web.app/): Landing Page de un cliente real, la cual es una empresa constructora.
 
 ### 🔗 Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelogaetealv/)
