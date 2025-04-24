@@ -1,4 +1,4 @@
-# ¡𝙷𝚘𝚕𝚊! 𝚂𝚘𝚢 𝙵𝚞𝚛𝟷𝚞𝚜𝚜 👋
+# ¡𝙷𝚘𝚕𝚊! 𝚂𝚘𝚢 Marcelo! 👋
 
 Soy un ingeniero en informática apasionado por el desarrollo de software, con experiencia en React, Firebase, y tecnologías modernas. Me encanta resolver problemas y trabajar en proyectos innovadores.
 
