@@ -18,6 +18,9 @@ He trabajado en el desarrollo de aplicaciones web optimizadas, liderando equipos
 
 - [Landing page Wirin Spa](https://constructorawirin.cl/): Cree esta landing page para un cliente real y cumpli con todas sus necesidades!.
 
+- [1# Place Hackathon NASA SPACE APPS CHILE 2025 - NTBeyonder](https://ntbeyonder.vercel.app/): Con mi equipo NTB Team logramos el primer lugar en la categoría intermedia en la hackatón de la NASA en Chile.
+- [2# Place Hackathon SUPABASE LW 15 - NTB STICKER SUPAFINDING](https://ntb-stickers-supafinding.vercel.app/): Liderando NTB Team, logramos el segundo lugar con nuestro proyecto NTB STICKER SUPAFINDING. Es un juego entretenido intengrando IA.
+
 
 ### 🌟 Proyectos destacados:
 - [Pulgaticket! 🪳](https://github.com/Fur1uss/pulgaticket): Plataforma web de reventa de entradas para eventos, creando un ambiente seguro y confiable entre cliente y vendedor.
